@@ -34,7 +34,10 @@ has({ a: ['abcde'] }, 'a[0][2]');  // => true
 
 ## Related
 
-
+- [object-at](https://github.com/bubkoo/object-at) - Get object's property according to the path.
+- [object-set](https://github.com/bubkoo/object-set) - Sets the value at path of object.
+- [object-unset](https://github.com/bubkoo/object-unset) - Removes the property at path of object.
+- [to-path](https://github.com/bubkoo/to-path) - Converts string to a property path array. 
 
 
 ## Contributing
