@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/object-has.git"
+    "url": "git+https://github.com/gearcase/object-has.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/object-has/issues"
+    "url": "https://github.com/gearcase/object-has/issues"
   },
-  "homepage": "https://github.com/bubkoo/object-has#readme",
+  "homepage": "https://github.com/gearcase/object-has#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
